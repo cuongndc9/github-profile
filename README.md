@@ -21,6 +21,6 @@ $ npm start
 ![](https://img.shields.io/github/license/cuongw/github-profile.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦖
+Action beats perfection.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
