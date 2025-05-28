@@ -22,6 +22,6 @@ $ npm start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+Discomfort is the currency of your dreams.
 🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
