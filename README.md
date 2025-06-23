@@ -22,5 +22,5 @@ $ npm start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->
